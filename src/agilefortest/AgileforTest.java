@@ -20,6 +20,7 @@ public class AgileforTest {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null, "test only");
+        JOptionPane.showMessageDialog(null, "test only");
     }
     
 }
